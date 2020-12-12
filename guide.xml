@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="KAI.HK">
+    <display-name lang="zh">香港開電視</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="TV1.MY">
+    <display-name lang="en">RTM TV1</display-name>
+    <url>http://www.myklik.rtm.gov.my</url>
+  </channel>
+  <channel id="TV2.MY">
+    <display-name lang="en">RTM TV2</display-name>
+    <url>http://www.myklik.rtm.gov.my</url>
+  </channel>
+</tv>
