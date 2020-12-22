@@ -163,5 +163,5 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1587491498_poster.png" group-title="International TV",A3 Bikini Network (18+)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1587491498_poster.png" group-title="International TV",Adult-Teen (18+)
+#EXTINF:-1 censored="1" tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-Teen (18+)
 http://cdn.adultiptv.net/teen.m3u8
