@@ -15,7 +15,7 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHT83h9QUNQaf2jHVui
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf3dxl4kGljHIFjaJMU8-AM)/dm/3/x6qp6ou/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="MY",8TV
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWpoMdi5_fHPRReC2cn_jBQ)/dm/3/x6qud17/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ0CF-SUTl3xBVRwsiAANyw)/dm/3/x6qud17/s/live-3.m3u8
 
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWDc1HXYBkMpalPTs47YigA)/dm/3/x6qqja6/s/live-4.m3u8
@@ -160,18 +160,33 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/play
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/29/Models%2C_Inc..png" group-title="International TV",Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 censored="0" tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1587491498_poster.png" group-title="International TV",A3 Bikini Network (18+)
+#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1587491498_poster.png" group-title="International TV",A3 Bikini Network (18+)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
-#EXTINF:-1 censored="1" tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-Teen (18+)
+#EXTINF:-1 censored="1" tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-1 (18+)
 http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-2 (18+)
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-3 (18+)
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-4 (18+)
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-5 (18+)
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-6 (18+)
+http://cdn.adultiptv.net/compilation.m3u8
 
 ### Test
 
-#EXTINF:-1 censored="1" tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin Channel 720P
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin Channel 720P
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
 
-#EXTINF:-1 parent-code="9999" tvg-id="Dummy" tvg-logo="https://i.imgur.com/ysWttE6.jpg" group-title="SINH HỌC", VISIT-X TV 720P
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ysWttE6.jpg" group-title="SINH HỌC", VISIT-X TV 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
 
 
