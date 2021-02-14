@@ -9,16 +9,17 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHcrGQ4vUeSatOl7iYR3Y960)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3nLkkPcWj6QL0rApah?autoplay=1
+##https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHcrGQ4vUeSatOl7iYR3Y960)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3nLkkPcWj6QL0rApah?autoplay=1
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcLsHzbFyYByhZ4NAqb4WMM)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title="MY",NTV7
-https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHRqKc4sHYE8UrZXI5Mp1D8M)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3nLkkPcWj6QL0rApah?autoplay=1
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTtmj-BqXNFs22ldo-vnxWk)/dm/3/x6qp6ou/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="MY",8TV
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxvS82chH917M6I4coEUcE)/dm/3/x6qud17/s/live-3.m3u8
 
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHQvnHYxNAklL-nS3n7di0_w)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3nLkkPcWj6QL0rApah?autoplay=1
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZPXp4JLgAtrG2jWb7_CBJE)/dm/3/x6qqja6/s/live-3.m3u8
 
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY",Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
