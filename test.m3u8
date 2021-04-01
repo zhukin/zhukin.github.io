@@ -12,13 +12,13 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSaksSkiE-BGlhjcZQIX86U)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3nLkkPcWj6QL0rApah?autoplay=1
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title="MY",NTV7
-https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08qYz5xyt9gZGEDHg7ET2aig)/dm/3/x7a7rxp/s/live-3.m3u8
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXcAFDmA77EthgjAAID1NIY)/dm/3/x6qp6ou/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="MY",8TV
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSDBXVucuZxuSY9mwl6-YOQ)/dm/3/x6qud17/s/live-3.m3u8
 
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRtIbcU0vgvLakaMBOYruX8)/dm/3/x6qqja6/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHepxPlNUs-wrxMZ_-Yu-LfU)/dm/3/x6qqja6/s/live-3.m3u8
 
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY",Berita RTM
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
