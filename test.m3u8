@@ -11,16 +11,16 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 #https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcQlytopmju0K82OdRJmk34)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3nLkkPcWj6QL0rApah?autoplay=1
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHY_tXia4rTMSAP37V1chzbA)/dm/3/x6qp375/d/live-3.m3u8|User-Agent=https://user-agents.net/s/L29OGN
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWqJhORkwQOZ7cTjDwIz7jQ)/dm/3/x6qp375/d/live-3.m3u8|User-Agent=https://user-agents.net/s/L29OGN
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title="MY",NTV7
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWYlfMi-rM7U_eUbIo1QTX0)/dm/3/x6qp6ou/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcW_uhB1C9PEVb3oOKPpXfM)/dm/3/x6qp6ou/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="MY",8TV
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSkqeMLZf3hMMd8OXw39r-8)/dm/3/x6qud17/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU4Zhxqv86I4wle3yPzLPgs)/dm/3/x6qud17/s/live-3.m3u8
 
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeG3B2wNu267BCQ8yVU0AuU)/dm/3/x6qqja6/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdXMyNwBCg7EGa3UoglaMkw)/dm/3/x6qqja6/s/live-3.m3u8
 
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY",Berita RTM
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
