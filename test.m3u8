@@ -2,6 +2,21 @@
 
 ### MY Channels ##
 
+#EXTINF:-1 tvg-id="CH1.Olympic" tvg-name="CH1" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.jpg" group-title="MY",CH1
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="CH2.Olympic" tvg-name="CH2" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.jpg" group-title="MY",CH2
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="CH3.Olympic" tvg-name="CH3" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.jpg" group-title="MY",CH3
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="CH4.Olympic" tvg-name="CH4" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.jpg" group-title="MY",CH4
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="CH5.Olympic" tvg-name="CH5" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.jpg" group-title="MY",CH5
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://myklik.rtm.gov.my
+
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="MY",TV1
 #https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #https://rtmlive01.secureswiftcontent.com/rtm/live01_480.m3u8|Referer=https://myklik.rtm.gov.my
