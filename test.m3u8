@@ -112,6 +112,8 @@ https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/
 
 ### Hong Kong ###
 
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png" group-title="MOVIES",Celestial Movies 天映频道 CH309
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台 1                 
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台 2                 
@@ -145,6 +147,8 @@ http://39.135.139.9:6610/PLTV/88888888/224/3221226203/2/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="韩国",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="MOVIES", tvN EN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 ### Documentary ###
 
