@@ -51,7 +51,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="AEC.my" tvg-name="Astro AEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="MY",Astro AEC
-http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+http://zalogitv.tech:8080/live/mastro-top/2323/1401.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="韩国",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
