@@ -7,14 +7,14 @@
 #https://rtmlive01.secureswiftcontent.com/rtm/live01_480.m3u8|Referer=https://myklik.rtm.gov.my
 #https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://myklik.rtm.gov.my
 #https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://myklik.rtm.gov.my
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01-720.m3u8
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-720.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="MY",TV2
 #https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #https://rtmlive01.secureswiftcontent.com/rtmchannel/01_720.m3u8|Referer=https://myklik.rtm.gov.my
 #https://rtmlive01.secureswiftcontent.com/rtmchannel/01_720.m3u8|Referer=https://myklik.rtm.gov.my
 #https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -34,7 +34,8 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHe70l5OEMAreoTs80Np2boY)/dm/3/x6qqja6/s/live-3.m3u8
 
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY",Berita RTM
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+#https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.myhttps://rtmlive03.secureswiftcontent.com/rtmchannel/03-720.m3u8
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03-720.m3u8|Referer=https://myklik.rtm.gov.my
 
 ### Entertainment ###
 
