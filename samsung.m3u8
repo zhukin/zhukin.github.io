@@ -41,22 +41,3 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/play
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1587491498_poster.png" group-title="International TV",A3 Bikini Network (18+)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 censored="1" tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-1 (18+)
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-2 (18+)
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-3 (18+)
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-4 (18+)
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-5 (18+)
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/porn-icon-symbol-black-isolated-260nw-1195687123.jpg" group-title="International TV",Adult-6 (18+)
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-logo="" tvg-url="" group-title="XXX",Extasy TV HD
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin Channel 720P
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ysWttE6.jpg" group-title="SINH HỌC", VISIT-X TV 720P
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
