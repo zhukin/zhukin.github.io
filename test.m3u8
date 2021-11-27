@@ -10,11 +10,11 @@ https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MY",TV3
 #http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|referer=https //www.dailymotion.com
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MY",NTV7
 #http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="MY",8TV
 #http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
@@ -29,25 +29,25 @@ https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://
 
 #EXTINF:-1 tvg-ID="Berita" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY",Berita RTM
 #https://rtmlive03.secureswiftcontent.com/rtmchannel/03-720.m3u8|Referer=https://myklik.rtm.gov.my
-#https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 #EXTINF:-1 tvg-ID="Sukan" tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="MY",Sukan RTM
-#https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 ### Entertainment ###
 
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Movies",HBO Malaysia
 #http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#https://dik.si/SEhbo?shareext.m3u8
+https://dik.si/SEhbo?shareext.m3u8
 
 #EXTINF:-1 tvg-id="StarMovie" tvg-name="Star Movies HD 4K" tvg-country="MY" tvg-language="" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-url="" group-title="Movies",Star Movies HD 4K
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-id="&Flix tvg-name="&Flix" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-url="" group-title="Movies",&Flix
-#http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8
+http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8
 
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/ftv-com_squre.png" group-title="美国",Fashion TV
-#https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="韩国",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -55,7 +55,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="电影",Cinemax
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8|
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8|User-Agent=https://user-agents.net/s/L29OGN
-#https://dik.si/SEcinemax?shareext.m3u8
+https://dik.si/SEcinemax?shareext.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="美国",MTV1
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
