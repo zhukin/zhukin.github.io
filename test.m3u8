@@ -15,12 +15,11 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MY",NTV7
 #http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/18B92
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="MY",8TV
 #http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.tonton.com.my
 
 #EXTINF:-1 tvg-ID="TV9" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY",TV9
 #http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
@@ -46,7 +45,8 @@ https://dik.si/SEhbo?shareext.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-id="&Flix tvg-name="&Flix" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-url="" group-title="Movies",&Flix
-http_proxy=http://103.250.156.24:6666 http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8|User-Agent=VLC
+###http_proxy=http://103.250.156.24:6666 http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8|User-Agent=VLC
+http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/ftv-com_squre.png" group-title="美国",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
