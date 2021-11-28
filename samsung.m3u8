@@ -8,48 +8,4 @@ https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MY",TV3
-###http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
-####https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com|User-Agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-
-####EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title="MY",NTV7
-###http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="MY",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Movies",HBO Malaysia
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#https://dik.si/SEhbo?shareext.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-id="StarMovie" tvg-name="Star Movies HD 4K" tvg-country="MY" tvg-language="" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-url="" group-title="Movies",Star Movies HD 4K
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="&Flix tvg-name="&Flix" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-url="" group-title="Movies",&Flix
-###http_proxy=http://103.250.156.24:6666 http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8|User-Agent=VLC
-http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/ftv-com_squre.png" group-title="美国",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8|User-Agent=https://user-agents.net/s/L29OGN
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png" group-title="Movies",Celestial Movies 天映频道 CH309
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                 
-http://livetv.dnsfor.me/channel.18.m3u8
-#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞台
-http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="香港",無綫財經資訊台
-http://livetv.dnsfor.me/channel.11.m3u8
-#EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2495310886/Fashion-TV_400x400.gif" group-title="International TV",FTV (16+)
-https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="International TV",FTV Midnight Secrets (18+)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-6.png" group-title="International TV",FTV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/29/Models%2C_Inc..png" group-title="International TV",Models Inc.
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1587491498_poster.png" group-title="International TV",A3 Bikini Network (18+)
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
