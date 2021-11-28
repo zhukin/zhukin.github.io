@@ -46,7 +46,8 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-id="&Flix tvg-name="&Flix" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-url="" group-title="Movies",&Flix
 ###http_proxy=http://103.250.156.24:6666 http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8|User-Agent=VLC
-http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8|User-Agent=VLC
+###http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8|User-Agent=VLC
+http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8
 
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/ftv-com_squre.png" group-title="美国",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
