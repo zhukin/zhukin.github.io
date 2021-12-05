@@ -12,11 +12,12 @@ https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://
 ###http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 ###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8 :http-user-agent="vlc"
 ###vlc http://rt-ct-ivan-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8 :http-user-agent="mpv"
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08owqnUb9gJqmx_rI27fkDkI)/dm/3/x7a7rpm/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MY",NTV7
 ###http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
+###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ0Ek18JxeC5jyylltdlrHA)/dm/3/x6qp6ou/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="MY",8TV
 ###http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
@@ -29,7 +30,8 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHchfF5-U_MFih_7Zih
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-ID="Drama" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="MY",Drama Sangat
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0rXpMLnZuUeJLK9_yTgNV9M)/dm/3/x6zvnex/s/live-2.m3u8
 
 #EXTINF:-1 tvg-ID="Berita" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY",Berita RTM
 #https://rtmlive03.secureswiftcontent.com/rtmchannel/03-720.m3u8|Referer=https://myklik.rtm.gov.my
