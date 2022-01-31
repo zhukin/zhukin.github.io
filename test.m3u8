@@ -18,7 +18,7 @@ https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08owqnUb9gJqmx_rI27
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MY",NTV7
 ###http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 ###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ0Ek18JxeC5jyylltdlrHA)/dm/3/x6qp6ou/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSTBZbQE5AQzCYgDKo_2mzA)/dm/3/x6qp6ou/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="MY",8TV
 ###http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
@@ -28,11 +28,12 @@ https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ0Ek18JxeC5jyyllt
 ###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
 ###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com|User-Agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 ###https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVaH4OdgrWTwcNHNgv-s_ug)/dm/3/x6qud17/s/live-1.m3u8
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTip4RoNB_3q2D8astU3uwM)/dm/3/x6qud17/s/live-1.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfR1qOUtOQLj4zN0lwG01YI)/dm/3/x6qud17/s/live-1.m3u8
 
 #EXTINF:-1 tvg-ID="TV9" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY",TV9
 #http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ0M5QnnsGztnUE4B-UH6Ks)/dm/3/x6qqja6/s/live-1.m3u8
 
 #EXTINF:-1 tvg-ID="Drama" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="MY",Drama Sangat
 ###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
