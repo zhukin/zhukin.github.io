@@ -13,7 +13,7 @@ https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://
 ###http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 ###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8 :http-user-agent="vlc"
 ###vlc http://rt-ct-ivan-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8 :http-user-agent="mpv"
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08owqnUb9gJqmx_rI27fkDkI)/dm/3/x7a7rpm/s/live-1.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZprhJVkwCLhnlPesdhfXRw)/dm/3/x6qp375/d/live-1.m3u8
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MY",NTV7
 ###http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
