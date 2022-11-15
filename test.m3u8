@@ -13,12 +13,14 @@ https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://
 ###http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 ###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8 :http-user-agent="vlc"
 ###vlc http://rt-ct-ivan-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8 :http-user-agent="mpv"
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZprhJVkwCLhnlPesdhfXRw)/dm/3/x6qp375/d/live-1.m3u8
+###https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZprhJVkwCLhnlPesdhfXRw)/dm/3/x6qp375/d/live-1.m3u8
+https://stream-01.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXTb3c7N4NOiKcnixg5RJRzCU9IvY9AC9z14O-7d05JE99B9_AD8xd2QIpgwINvF2kg)/dm/3/x6qp375/d/live-4.m3u8
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MY",NTV7
 ###http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 ###https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSTBZbQE5AQzCYgDKo_2mzA)/dm/3/x6qp6ou/s/live-1.m3u8
+###https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSTBZbQE5AQzCYgDKo_2mzA)/dm/3/x6qp6ou/s/live-1.m3u8
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRyPfYejSKP3JM8ZY2082WLC23GWe0ZWcvsZ39RiUOv2)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="MY",8TV
 ###http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
@@ -35,7 +37,7 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSTBZbQE5AQzCYgDKo
 ###https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTJQlGC6rXak11DJYWX3zl8)/dm/3/x6qud17/s/live-0.m3u8
 ###https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeFTcARcMklfgTOCnW6pF7M)/dm/3/x6qud17/s/live-1.m3u8
 ###https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQRUvRm9O9ZgkxubxqBF4GIeil40Z3udgg23ixpDFcDO)/dm/3/x6qud17/s/live-4.m3u8
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUkg7dMT_2gp8JtnZfGtGbGz8Sj37kASX66bpxuqTQXP)/dm/3/x6qud17/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRXogMv-KWD9JuCMNnuHvh-x6m1OOH6xxXz5qU63URy6)/dm/3/x6qud17/s/live-4.m3u8
 
 #EXTINF:-1 tvg-ID="TV9" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY",TV9
 #http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
