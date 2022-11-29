@@ -7,7 +7,8 @@
 https://rtmlive01.secureswiftcontent.com/rtmchannel/01-720.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="MY",TV2
-https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://myklik.rtm.gov.my
+###https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://myklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MY",TV3
 ###http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -37,7 +38,7 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUQbAqhQP3uYRH_E3f
 ###https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTJQlGC6rXak11DJYWX3zl8)/dm/3/x6qud17/s/live-0.m3u8
 ###https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeFTcARcMklfgTOCnW6pF7M)/dm/3/x6qud17/s/live-1.m3u8
 ###https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQRUvRm9O9ZgkxubxqBF4GIeil40Z3udgg23ixpDFcDO)/dm/3/x6qud17/s/live-4.m3u8
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHS9YdEmv5PRIXWikyVf1RHorptiDXbEE5nGq97XXwaVL)/dm/3/x6qud17/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXmd6gUaceS_KX0zLxNMzZ3kZFr6kKApBSlx4aj8wROc)/dm/3/x6qud17/s/live-4.m3u8
 
 #EXTINF:-1 tvg-ID="TV9" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY",TV9
 #http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
