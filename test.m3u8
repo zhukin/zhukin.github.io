@@ -16,6 +16,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 ###vlc http://rt-ct-ivan-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8 :http-user-agent="mpv"
 ###https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZprhJVkwCLhnlPesdhfXRw)/dm/3/x6qp375/d/live-1.m3u8
 https://stream-02.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXUDPbp2AT_Vud5Eb6NvG8E7Ky_yjHlIMsFh8KpxPTDJdmWeZKDua1feig19ZEdpfFw)/dm/3/x6qp375/d/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXSBk1jP-G0p8OwyGTvJ7rfUQHG-7rShMGvMvZv4XLFOUNaJCqWmVzHK3jgUlwWqKHg)/dm/3/x6qp375/d/live-4.m3u8
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MY",NTV7
 ###http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
@@ -50,11 +51,13 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHalErvdx6D_XUUtcPZ
 https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0rXpMLnZuUeJLK9_yTgNV9M)/dm/3/x6zvnex/s/live-2.m3u8
 
 #EXTINF:-1 tvg-ID="Berita" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY",Berita RTM
-#https://rtmlive03.secureswiftcontent.com/rtmchannel/03-720.m3u8|Referer=https://myklik.rtm.gov.my
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd|Referer=https://myklik.rtm.gov.my
+###https://rtmlive03.secureswiftcontent.com/rtmchannel/03-720.m3u8|Referer=https://myklik.rtm.gov.my
+###https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd|Referer=https://myklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
-#EXTINF:-1 tvg-ID="Sukan" tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="MY",Sukan RTM
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 tvg-ID="Sukan" tvg-logo="https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg" group-title="MY",Sukan RTM
+###https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|Referer=https://myklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
 ### Entertainment ###
 
